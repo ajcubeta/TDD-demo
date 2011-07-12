@@ -1,0 +1,50 @@
+User Stories of a Candidate
+
+Account & Settings
+
+As a candidate, I want to register to find a job.
+As a candidate, I want to do login to navigate the application.
+As a candidate, I want to edit my account informations.
+As a candidate, I want to upload an image as my default photo of my profile page.
+As a candidate, I want to change my status to passive if my status is active only if I’m allowing myself to an open job opportunity.
+As a candidate, I want to change my status to active if my status is passive only if I’m keen to find for a job.
+As a candidate, I want to change my password and by changing it requires my old and new password for verification purposes.
+As a candidate, I want to recover my password if my account password was compromised.
+As a candidate, I want to view my recent activities.
+As a candidate, I want do logout from the application.
+Profile
+
+As a candidate, I want update my profile such as general my informations.
+As a candidate, I want to add my legal identifiers at any types.
+As a candidate, I want to add my addresses either overseas or residential.
+As a candidate, I want to add as many websites I want to include.
+Preferences
+
+As a candidate, I want to update my personal preferences.
+As a candidate, I want to add a job title and as much as possible I can add multiple job titles separating them in comma.
+As a candidate, I want to choose either contract or permanent job type, or if possible I can choose both.
+As a candidate, I am able to choose more than one job category so that my profile will be more searchable in the application.
+As a candidate, I am able to fill in my minimum expected salary and expected maximum salary per month and per year so the renumeration is provided.
+As a candidate, I can choose if I am able to travel overseas for work.
+As a candidate, I can choose if I am able to relocate as the work requires.
+As a candidate, I want to suggest my own working location.
+As a candidate, I can choose if I am able to work on a shifting schedule.
+As a candidate, I want to add multiple companies that I am avoiding with.
+Resume
+
+As a candidate, I want to add my educations and professional certifications.
+As a candidate, I want to add my experiences.
+As a candidate, I want to add my competencies.
+As a candidate, I want to add my languages.
+As a candidate, I want to add my professional references.
+As a candidate, I want to add my publications.
+As a candidate, I want to include my LinkedIn account information so no need for me to write my data.
+Job Application
+
+As a candidate, I want to view the list of job postings available.
+As a candidate, I want to search a job by keying my ideal job title.
+As a candidate, I want to find a job by category.
+As a candidate, I want to apply for a job that are available and open positions.
+As a candidate, I want to watch a job posted so if I am keen to apply for a job next time I am able to view the watch list of the jobs I like mostly.
+As a candidate, I want to block a job posting that I am avoiding with, so I can proceed to other interesting job postings available.
+As a candidate, I want to view the list of jobs that I applied recently.
