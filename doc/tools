@@ -1,0 +1,35 @@
+RELATED LINKS:
+
+10 TextMate bundles/plugins to boost your Ruby on Rails development productivity:
+http://adventuresincoding.com/2010/05/10-textmate-bundlesplugins-to-boost-your-ruby-on-rails-development-productivity
+
+Formatter for Textmate Cucumber:
+http://robaldred.co.uk/2009/08/cucumber-pretty-html-formatter-for-textmate/
+
+Cucumber Textmate plugin:
+https://github.com/raldred/cucumber_textmate
+
+Cucumber sample from Ryan Bates:
+http://railscasts.com/episodes/155-beginning-with-cucumber
+http://railscasts.com/episodes/155-beginning-with-cucumber?autoplay=true
+
+Ruby
+http://www.youtube.com/watch?v=oEkJvvGEtB4
+
+Webrat vs Capybara
+http://cakebaker.42dh.com/2010/09/19/cucumber-switching-from-webrat-to-capybara/
+
+Capybara Issues on charater set encoding:
+http://crimpycode.brennonbortz.com/?p=42
+https://gist.github.com/1071471
+https://github.com/jnicklas/capybara/issues/87
+Rack::Utils.escape uses an ascii regural expression on unicode data, notice the '/n'
+def escape(s)
+  s.to_s.gsub(/([^ a-zA-Z0-9_.-]+)/n) {
+    '%'+$1.unpack('H2'*bytesize($1)).join('%').upcase
+  }.tr(' ', '+')
+end
+
+Factory Girl the replacement of Fixtures:
+http://railscasts.com/episodes/158-factories-not-fixtures
+http://thoughtbot.com/community/

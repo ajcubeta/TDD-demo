@@ -1,4 +1,8 @@
 TddDemo::Application.routes.draw do
+  get "articles/index"
+
+  resources :articles
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
