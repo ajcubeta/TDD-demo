@@ -33,3 +33,7 @@ end
 Factory Girl the replacement of Fixtures:
 http://railscasts.com/episodes/158-factories-not-fixtures
 http://thoughtbot.com/community/
+
+
+warning: regexp match /.../n against to UTF-8 string
+http://crimpycode.brennonbortz.com/?p=42
