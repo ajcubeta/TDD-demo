@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.9'
+gem 'rails', '3.1.0.rc4'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -10,6 +10,7 @@ gem 'pg', :require => 'pg'
 gem 'devise', '1.3.4'
 gem 'nifty-generators'
 gem 'escape_utils'
+gem 'prototype-rails'
 
 group :development, :test do
   gem 'guard'
